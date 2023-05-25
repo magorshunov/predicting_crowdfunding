@@ -5,4 +5,4 @@ Data were collected for all Kickstarter campaigns launched in the US in 2016. Th
 
 The resulting model produced a precision score for successfully funded campaigns of 0.75, which was pretty good considering that text predictors had no apriori theoretical basis. That is, among 1,951 funded campaigns, the model correctly classified 1,456 in a holdout test data set using the text data only.
 
-The model development process is described in the Jupyter Notebook notebook.ipynb. The dataset of text files is available under the file text_files.7z.
+The model development process is described in the Jupyter Notebook `notebook.ipynb`. The dataset of text files is available under the file `text_files.7z`.

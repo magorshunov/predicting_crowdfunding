@@ -1,5 +1,5 @@
 # Predicting Funding Outcomes Using XGBoost and Campaign Narratives: Kickstarter Crowdfunding Campaigns
-I examined the effectiveness of the communication that entrepreneurs use in their crowdfunding pitches to secure funding for their ventures. I used Natural Language Processing (NLP) and XGBoost machine learning model to predict funding success based on information contained in campaign narratives. 
+I examined the effectiveness of the communication that entrepreneurs use in their crowdfunding pitches to secure funding for their ventures. I used Natural Language Processing (NLP) and XGBoost machine learning model to predict funding success based on campaigns' text.
 
 Data were collected for all Kickstarter campaigns launched in the US in 2016. The campaign text descriptions were web scrapped from [kickstarter.com](https://www.kickstarter.com/). The resulting dataset amounted to 21,711 campaigns: 9,717 funded and 11,994 unfunded.
 
